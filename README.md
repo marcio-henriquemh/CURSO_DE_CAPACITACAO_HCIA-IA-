@@ -1,2 +1,2 @@
-# CURSO_DE_CAPACITACAO_HCIA-IA-
+# CURSO DE CAPACITACAO HCIA-IA
 Curso de capacitação em Inteligência Artíficial.
